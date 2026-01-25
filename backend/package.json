@@ -36,7 +36,7 @@
     "pino-pretty": "^10.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.0",
-    "sqlite3": "^5.1.6",
+    "sqlite3": "^5.1.7",
     "typeorm": "^0.3.12",
     "uuid": "^9.0.0",
     "xss-filters": "^1.2.7"
